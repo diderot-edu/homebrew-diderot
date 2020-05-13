@@ -1,4 +1,4 @@
-# diderot-edu diderot-cli
+# diderot-edu diderot
 
 ## How do I install the diderot compiler?
 `brew install diderot-edu/diderot/diderot`
