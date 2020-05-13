@@ -4,7 +4,7 @@ class Diderot < Formula
   desc "Diderot Compiler"
   homepage "https://github.com/diderot-edu/diderot-guide/"
 
-  # The next 2 lines need to changr whenever we upload a new version of dc
+  # The next 2 lines need to change whenever we upload a new version of dc
   url "https://diderot-dist.s3.amazonaws.com/dc-macos-0.16.6.zip"
   sha256 "56bf36b83db5316aace7fbd7c09d6766b41cadde8404f12596a1e640fbdd8188"
 
