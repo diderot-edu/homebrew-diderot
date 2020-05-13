@@ -6,7 +6,7 @@ class Diderot < Formula
 
   # The next 2 lines need to change whenever we upload a new version of dc
   url "https://diderot-dist.s3.amazonaws.com/dc-macos-0.16.6.zip"
-  sha256 "8bf799bb24fba4bdc622a34d53263db9ff92328d05784174a51a9ae7010083cc"
+  sha256 "167fd72bd266644f9a1cf3a47193a58f1c2645a3e0f78eee8061a615f38a5aae"
 
   depends_on "pandoc"
 
