@@ -5,7 +5,7 @@ class Diderot < Formula
   desc "Diderot Compiler"
   homepage "https://github.com/diderot-edu/diderot-guide/"
   url "https://diderot-dist.s3.amazonaws.com/dc-macos-0.16.6.zip"
-  sha256 "1254c226ed007c73522c30a70223ce1144205f736772b25b64ed2c93c75d394b"
+  sha256 "56bf36b83db5316aace7fbd7c09d6766b41cadde8404f12596a1e640fbdd8188"
 
   depends_on "pandoc"
 
